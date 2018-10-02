@@ -38,7 +38,7 @@ pages when you edit the source files.
 
 ## Contributing
 
-See [CONTRIBUTING.md] (https://github.com/tminussi/np/blob/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/tminussi/np/blob/master/CONTRIBUTING.md)
 
 ## Feedback
 
